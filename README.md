@@ -1,4 +1,13 @@
+# DEPRECATED
+
+This tool has been deprecated in favor of the new `plate` command in [Invader/Ringhopper](https://github.com/FishAndRips/ringhopper),
+which is way less tedious to use since you don't need to type so many command arguments or do so much work in a GUI.
+You just set up your data folder and make a color plate with a simple command.
+
+The original code for blue-gen is left here for historical reasons.
+
 # blue-gen
+
 This program combines multiple TIFF, PNG, BMP, and TGA images into a single TIFF color plate for Halo Custom Edition
 bitmap creation.
 
